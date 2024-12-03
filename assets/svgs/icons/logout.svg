@@ -1,0 +1,9 @@
+<svg id="logout" xmlns="http://www.w3.org/2000/svg" width="18.368" height="19.326" viewBox="0 0 18.368 19.326">
+  <path id="Path_78" data-name="Path 78" d="M6.4.264A2.656,2.656,0,0,0,3.763,2.9V16.951A2.656,2.656,0,0,0,6.4,19.59H9.911a2.654,2.654,0,0,0,2.638-2.638V13.437a.878.878,0,1,0-1.756,0v3.515a.863.863,0,0,1-.882.882H6.4a.863.863,0,0,1-.881-.882V2.9A.863.863,0,0,1,6.4,2.02H9.912a.863.863,0,0,1,.882.882V6.417a.878.878,0,1,0,1.756,0V2.9A2.654,2.654,0,0,0,9.911.264Zm-5.266,3.5a.878.878,0,0,0-.887.9V15.193a.878.878,0,0,0,1.756,0V4.66a.878.878,0,0,0-.862-.9Z" transform="translate(-0.251 -0.264)" fill="#fff" fill-rule="evenodd"/>
+  <g id="Group_45" data-name="Group 45" transform="translate(8.494 5.9)">
+    <line id="Line_1" data-name="Line 1" x1="3.01" y2="3.763" transform="translate(6.021 3.763)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.2"/>
+    <line id="Line_2" data-name="Line 2" x1="3.01" y1="3.763" transform="translate(6.021 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.2"/>
+    <path id="Path_69" data-name="Path 69" d="M0,1.3s1.889-2.927,4.3,0" transform="translate(6.021 1.615) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.2"/>
+    <line id="Line_3" data-name="Line 3" x1="4.052" transform="translate(0 3.763)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.2"/>
+  </g>
+</svg>
